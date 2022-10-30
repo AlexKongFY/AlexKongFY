@@ -6,20 +6,20 @@
 
 Current Tech Skills
 
-Basics 
-⚡HTML ⚡CSS
+Basics <br/>
+⚡HTML ⚡CSS <br/>
 
-Languages 
-⚡JavaScript
+Languages <br/>
+⚡JavaScript <br/>
 
-CSS Extensions 
-⚡Bootstrap
+CSS Extensions <br/>
+⚡Bootstrap <br/>
 
-Front-End Frameworks / Libraries 
-⚡React
+Front-End Frameworks / Libraries <br/> 
+⚡jQuery⚡React <br/>
 
-Software Applications
-⚡Visual Studio Code ⚡Atom ⚡Figma
+Software Applications <br/>
+⚡Visual Studio Code ⚡Atom ⚡Figma ⚡Git/Github ⚡Vite ⚡Vercel ⚡npm ⚡eslint <br/>
 
 
 <!--
