@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👀 I’m a self-taught web developer. 
-🌱 I’m currently learning full stack applications. 
-💞️ I’m looking to collaborate on others to gain more experience
+👀 I’m a self-taught web developer.<br/>
+🌱 I’m currently learning full stack applications.<br/> 
+💞️ I’m looking to collaborate on others to gain more experience. <br/>
 
 Current Tech Skills
 
