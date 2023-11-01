@@ -1,25 +1,31 @@
 ### Hi there 👋
 
-👀 I’m a self-taught web developer.<br/>
-🌱 I’m currently learning full stack applications.<br/> 
-💞️ I’m looking to collaborate on others to gain more experience. <br/>
+👀 I’m currently learning on cybersecurity.<br/>
+🌱 Self-taught myself on basic web development.<br/> 
+💞️ I’m looking to collaborate on others to gain more experience or CTF. <br/>
 
 Current Tech Skills
 
-Basics <br/>
+Basics Web Design <br/>
 ⚡HTML ⚡CSS <br/>
 
-Languages <br/>
-⚡JavaScript <br/>
+Programming Languages <br/>
+⚡JavaScript ⚡Python ⚡Bash Scripting & Text manipulation <br/>
 
-CSS Extensions <br/>
-⚡Bootstrap <br/>
+Security Tools <br/>
+⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Nipe ⚡Torify ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Netcat <br/>
 
-Front-End Frameworks / Libraries <br/> 
-⚡jQuery⚡React <br/>
+Penetration Testing & social Engineering <br/>
+⚡John the Ripper ⚡Hydra ⚡Medusa ⚡NSE Enumeration Scripts ⚡Metasploit ⚡Hashcat ⚡Searchsploit ⚡Msfvenom ⚡Msfconsole ⚡fuff ⚡Burp Suite ⚡SEtoolkit ⚡Zphisher ⚡beEF ⚡Hashing & Encoding ⚡FUDs <br/>
 
-Software Applications <br/>
-⚡Visual Studio Code ⚡Atom ⚡Figma ⚡Git/Github ⚡Vite ⚡Vercel ⚡npm ⚡eslint <br/>
+Front-End Frameworks / Libraries / Tools <br/> 
+⚡jQuery⚡React ⚡Bootstrap <br/>
+
+OS <br/>
+⚡Windows ⚡Kali Linux <br/>
+
+Software Applications & Tools <br/>
+⚡Visual Studio Code ⚡Atom ⚡Figma ⚡Git/Github ⚡Vite ⚡Vercel ⚡npm ⚡eslint ⚡CherryTree ⚡VMWare ⚡Geany ⚡MobaXterm ⚡Raspberry Pi ⚡ChatGPT <br/>
 
 
 <!--
