@@ -12,7 +12,7 @@ Basics Web Design <br/>
 Programming Languages <br/>
 ⚡JavaScript ⚡Python ⚡Bash Scripting & Text manipulation <br/>
 
-Security Tools <br/>
+Network Research & Security Tools <br/>
 ⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Nipe ⚡Torify ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Netcat <br/>
 
 Penetration Testing & social Engineering <br/>
