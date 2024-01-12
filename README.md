@@ -7,10 +7,10 @@
 Current Cybersecuirity Skills
 
 Penetration Testing & social Engineering <br/>
-⚡John the Ripper ⚡Hydra ⚡Medusa ⚡NSE Enumeration Scripts ⚡Metasploit ⚡Hashcat ⚡Searchsploit ⚡Msfvenom ⚡Msfconsole ⚡fuff ⚡Burp Suite ⚡SEtoolkit ⚡Zphisher ⚡beEF XSS⚡Hashing & Encoding ⚡FUDs ⚡Netcat ⚡Nipe ⚡Torify⚡SQL Injection ⚡Noip ⚡Ngrok <br/>
+⚡John the Ripper ⚡Hydra ⚡Medusa ⚡NSE Enumeration Scripts ⚡Metasploit ⚡Hashcat ⚡Searchsploit ⚡Msfvenom ⚡Msfconsole ⚡fuff ⚡Burp Suite ⚡SEtoolkit ⚡Zphisher ⚡beEF XSS⚡Hashing & Encoding ⚡FUDs ⚡Netcat ⚡Nipe ⚡Torify⚡SQL Injection ⚡Noip ⚡Ngrok ⚡Hping3 <br/>
 
 Network Research & Security Tools <br/>
-⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Pfsense ⚡Sysmon ⚡Subnetting ⚡Pfblockerng ⚡Snort ⚡Windows Active Directory  ⚡Windows Domain Controller  ⚡Group Policy Object Management ⚡Kerberos ⚡Mitre ⚡SIEM(ELK Kibana) ⚡Splunk ⚡Incident Response(IR) ⚡Dimtry <br/>
+⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Pfsense ⚡Sysmon ⚡Subnetting ⚡Pfblockerng ⚡Snort IDS/IP ⚡Windows Active Directory ⚡Windows Domain Controller ⚡Group Policy Object Management ⚡Kerberos ⚡Mitre ⚡SIEM(Elastic Logstash Kibana / ELK) ⚡Splunk ⚡Incident Response(IR) ⚡Dimtry ⚡Yara rules ⚡Hexdump⚡APT-Hunter ⚡Imphash ⚡Network Miner <br/>
 
 Programming Languages <br/>
 ⚡JavaScript ⚡Python ⚡Bash Scripting & Text manipulation <br/>
