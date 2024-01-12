@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-👀 I’m currently learning on cybersecurity.<br/>
+👀 I’m currently learning on cybersecurity practices.<br/>
 🌱 Self-taught myself on basic web development.<br/> 
 💞️ I’m looking to collaborate on others to gain more experience or CTF. <br/>
 
 Current Cybersecuirity Skills
 
 Penetration Testing & social Engineering <br/>
-⚡John the Ripper ⚡Hydra ⚡Medusa ⚡NSE Enumeration Scripts ⚡Metasploit ⚡Hashcat ⚡Searchsploit ⚡Msfvenom ⚡Msfconsole ⚡fuff ⚡Burp Suite ⚡SEtoolkit ⚡Zphisher ⚡beEF XSS⚡Hashing & Encoding ⚡FUDs ⚡Netcat ⚡Nipe ⚡Torify ⚡DVWA ⚡SQL Injection ⚡Noip ⚡Ngrok ⚡Intelx <br/>
+⚡John the Ripper ⚡Hydra ⚡Medusa ⚡NSE Enumeration Scripts ⚡Metasploit ⚡Hashcat ⚡Searchsploit ⚡Msfvenom ⚡Msfconsole ⚡fuff ⚡Burp Suite ⚡SEtoolkit ⚡Zphisher ⚡beEF XSS⚡Hashing & Encoding ⚡FUDs ⚡Netcat ⚡Nipe ⚡Torify⚡SQL Injection ⚡Noip ⚡Ngrok <br/>
 
 Network Research & Security Tools <br/>
-⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Pfsense ⚡Sysmon ⚡Subnetting ⚡Pfblockerng ⚡Snort ⚡Windows Active Directory  ⚡Domain Controller  ⚡Group Policy Object Management ⚡Kerberos ⚡Mitre ⚡SIEM(ELK Kibana)  ⚡Incident Response(IR) ⚡Dimtry <br/>
+⚡Wireshark ⚡Nmap ⚡Masscan⚡Tcpdump ⚡Shodan ⚡OSINT ⚡Google Dorks ⚡Nessus ⚡Fail2Ban ⚡Enum4Linux ⚡Pfsense ⚡Sysmon ⚡Subnetting ⚡Pfblockerng ⚡Snort ⚡Windows Active Directory  ⚡Windows Domain Controller  ⚡Group Policy Object Management ⚡Kerberos ⚡Mitre ⚡SIEM(ELK Kibana) ⚡Splunk ⚡Incident Response(IR) ⚡Dimtry <br/>
 
 Programming Languages <br/>
 ⚡JavaScript ⚡Python ⚡Bash Scripting & Text manipulation <br/>
